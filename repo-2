@@ -1,0 +1,17 @@
+//import java.util.Scanner;
+
+public class Value {
+    public static void main(String[] args) {
+        int[] arr={12,34,56,78,90};
+        int sum=0;
+    
+        for(int x :arr)
+        {
+            sum=sum+x;
+        }
+        System.out.println("sum of arrays  "+sum);
+        }
+    
+    } 
+
+
